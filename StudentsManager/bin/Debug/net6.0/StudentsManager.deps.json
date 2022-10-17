@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StudentsManager/1.0.0": {
+        "dependencies": {
+          "StudentService": "1.0.0"
+        },
+        "runtime": {
+          "StudentsManager.dll": {}
+        }
+      },
+      "StudentService/1.0.0": {
+        "runtime": {
+          "StudentService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentsManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

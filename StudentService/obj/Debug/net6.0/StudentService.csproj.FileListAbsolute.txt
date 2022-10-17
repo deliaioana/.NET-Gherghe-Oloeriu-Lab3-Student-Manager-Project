@@ -1,0 +1,12 @@
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\bin\Debug\net6.0\StudentService.deps.json
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\bin\Debug\net6.0\StudentService.dll
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\bin\Debug\net6.0\StudentService.pdb
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\obj\Debug\net6.0\StudentService.csproj.AssemblyReference.cache
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\obj\Debug\net6.0\StudentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\obj\Debug\net6.0\StudentService.AssemblyInfoInputs.cache
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\obj\Debug\net6.0\StudentService.AssemblyInfo.cs
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\obj\Debug\net6.0\StudentService.csproj.CoreCompileInputs.cache
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\obj\Debug\net6.0\StudentService.dll
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\obj\Debug\net6.0\refint\StudentService.dll
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\obj\Debug\net6.0\StudentService.pdb
+D:\1_SCOALA\Anul_3_Semestrul_1\Net\projects\StudentsManager\StudentService\obj\Debug\net6.0\ref\StudentService.dll
